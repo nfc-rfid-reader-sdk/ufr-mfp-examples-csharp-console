@@ -1,0 +1,7 @@
+C:\Users\Projekat\Desktop\VS_C#_Projects\ufr-mfp-examples-c-sharp-console\ufr-mfp-examples-c-sharp-console\obj\Debug\ufr-mfp-examples-c-sharp-console.csprojAssemblyReference.cache
+C:\Users\Projekat\Desktop\VS_C#_Projects\ufr-mfp-examples-c-sharp-console\ufr-mfp-examples-c-sharp-console\obj\Debug\ufr-mfp-examples-c-sharp-console.csproj.CoreCompileInputs.cache
+C:\Users\Projekat\Desktop\VS_C#_Projects\ufr-mfp-examples-c-sharp-console\ufr-mfp-examples-c-sharp-console\bin\Debug\ufr-mfp-examples-c-sharp-console.exe.config
+C:\Users\Projekat\Desktop\VS_C#_Projects\ufr-mfp-examples-c-sharp-console\ufr-mfp-examples-c-sharp-console\bin\Debug\ufr-mfp-examples-c-sharp-console.exe
+C:\Users\Projekat\Desktop\VS_C#_Projects\ufr-mfp-examples-c-sharp-console\ufr-mfp-examples-c-sharp-console\bin\Debug\ufr-mfp-examples-c-sharp-console.pdb
+C:\Users\Projekat\Desktop\VS_C#_Projects\ufr-mfp-examples-c-sharp-console\ufr-mfp-examples-c-sharp-console\obj\Debug\ufr-mfp-examples-c-sharp-console.exe
+C:\Users\Projekat\Desktop\VS_C#_Projects\ufr-mfp-examples-c-sharp-console\ufr-mfp-examples-c-sharp-console\obj\Debug\ufr-mfp-examples-c-sharp-console.pdb

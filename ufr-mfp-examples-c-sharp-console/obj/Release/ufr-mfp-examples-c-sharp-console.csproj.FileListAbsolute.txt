@@ -1,0 +1,14 @@
+C:\Users\Projekat\Desktop\VS_C#_Projects\ufr-mfp-examples-c-sharp-console\ufr-mfp-examples-c-sharp-console\bin\Release\ufr-mfp-examples-c-sharp-console.exe.config
+C:\Users\Projekat\Desktop\VS_C#_Projects\ufr-mfp-examples-c-sharp-console\ufr-mfp-examples-c-sharp-console\bin\Release\ufr-mfp-examples-c-sharp-console.exe
+C:\Users\Projekat\Desktop\VS_C#_Projects\ufr-mfp-examples-c-sharp-console\ufr-mfp-examples-c-sharp-console\bin\Release\ufr-mfp-examples-c-sharp-console.pdb
+C:\Users\Projekat\Desktop\VS_C#_Projects\ufr-mfp-examples-c-sharp-console\ufr-mfp-examples-c-sharp-console\obj\Release\ufr-mfp-examples-c-sharp-console.csprojAssemblyReference.cache
+C:\Users\Projekat\Desktop\VS_C#_Projects\ufr-mfp-examples-c-sharp-console\ufr-mfp-examples-c-sharp-console\obj\Release\ufr-mfp-examples-c-sharp-console.csproj.CoreCompileInputs.cache
+C:\Users\Projekat\Desktop\VS_C#_Projects\ufr-mfp-examples-c-sharp-console\ufr-mfp-examples-c-sharp-console\obj\Release\ufr-mfp-examples-c-sharp-console.exe
+C:\Users\Projekat\Desktop\VS_C#_Projects\ufr-mfp-examples-c-sharp-console\ufr-mfp-examples-c-sharp-console\obj\Release\ufr-mfp-examples-c-sharp-console.pdb
+C:\Users\Projekat\Desktop\For Git in-out\ufr-mfp-examples-csharp-console\ufr-mfp-examples-c-sharp-console\bin\Release\ufr-mfp-examples-c-sharp-console.exe.config
+C:\Users\Projekat\Desktop\For Git in-out\ufr-mfp-examples-csharp-console\ufr-mfp-examples-c-sharp-console\bin\Release\ufr-mfp-examples-c-sharp-console.exe
+C:\Users\Projekat\Desktop\For Git in-out\ufr-mfp-examples-csharp-console\ufr-mfp-examples-c-sharp-console\bin\Release\ufr-mfp-examples-c-sharp-console.pdb
+C:\Users\Projekat\Desktop\For Git in-out\ufr-mfp-examples-csharp-console\ufr-mfp-examples-c-sharp-console\obj\Release\ufr-mfp-examples-c-sharp-console.csprojAssemblyReference.cache
+C:\Users\Projekat\Desktop\For Git in-out\ufr-mfp-examples-csharp-console\ufr-mfp-examples-c-sharp-console\obj\Release\ufr-mfp-examples-c-sharp-console.csproj.CoreCompileInputs.cache
+C:\Users\Projekat\Desktop\For Git in-out\ufr-mfp-examples-csharp-console\ufr-mfp-examples-c-sharp-console\obj\Release\ufr-mfp-examples-c-sharp-console.exe
+C:\Users\Projekat\Desktop\For Git in-out\ufr-mfp-examples-csharp-console\ufr-mfp-examples-c-sharp-console\obj\Release\ufr-mfp-examples-c-sharp-console.pdb
